@@ -1,2 +1,2 @@
 # Lesson4-ProfanityEditor
-Lesson4 secret message mini-project
+Lesson4 profanity editor mini-project
